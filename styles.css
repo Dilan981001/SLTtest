@@ -1,0 +1,80 @@
+
+.container-fluid1{
+    background-color: brown;
+    justify-content: flex-start;
+}
+.col{
+    display: flex;
+}
+.item{
+    color: white;
+    padding-right: 20px;
+    margin-left: 20px;
+
+}
+.p-3{
+    margin-left: 100px;
+    color: brown;
+}
+.row1{
+    display: flex;
+    background: url('./asserts/Background-36.png') repeat;
+    background-repeat: repeat-x !important;
+    background-position: center;
+    
+  }
+  .n1{
+    font-size: 25px;
+    font-weight: bold;
+  }
+ .t1{
+    font-weight: bold;
+    padding-top: 50px;
+    
+ } 
+.img{
+    padding-top: 50px;
+}
+.row{
+    display: flex;
+   
+}
+
+.form{
+    border-radius: 20px;
+    border-color: black;
+}
+.row5{
+    background-color: lightblue;
+    padding: 5px;
+    margin-top: 20px;
+    color: blue;
+    
+}
+.col1{
+    display: flex;
+    flex-direction: column;
+}
+ .nav-item{
+    font-size: 15px;
+    padding-right: 10px;
+    margin-left: -10px;
+    font-weight: bold;
+    
+} 
+.navbar{
+    margin-left: -80px;
+} 
+.call{
+    color: orange;
+    font-size: 40px;
+
+}
+.gov{
+    color: orange;
+    font-size: 10px;
+}
+.body-main{
+    margin-top: 50px;
+}
+
